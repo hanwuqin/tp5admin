@@ -1,0 +1,561 @@
+[ 2016-12-07T17:46:19+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] layui.admin.com:8080/ [运行时间：0.406000s][吞吐率：2.46req/s] [内存消耗：1,341.38kb] [文件加载：36]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected 'return' (T_RETURN)[D:\team\tp5\application\admin\controller\Index.php:19]
+
+---------------------------------------------------------------
+[ 2016-12-07T17:46:19+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] layui.admin.com:8080/ [运行时间：0.051500s][吞吐率：19.42req/s] [内存消耗：1,341.37kb] [文件加载：36]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected 'return' (T_RETURN)[D:\team\tp5\application\admin\controller\Index.php:19]
+
+---------------------------------------------------------------
+[ 2016-12-07T17:46:20+08:00 ] 127.0.0.1 127.0.0.1 GET /favicon.ico
+[ log ] layui.admin.com:8080/favicon.ico [运行时间：0.052500s][吞吐率：19.05req/s] [内存消耗：1,306.63kb] [文件加载：34]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://layui.admin.com:8080/',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-12-07T17:50:09+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] layui.admin.com:8080/ [运行时间：0.263000s][吞吐率：3.80req/s] [内存消耗：1,728.90kb] [文件加载：42]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-12-07T17:50:09+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/AdminLogin/login.html
+[ log ] layui.admin.com:8080/admin/AdminLogin/login.html [运行时间：0.054000s][吞吐率：18.52req/s] [内存消耗：1,692.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'AdminLogin',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\AdminLogin->login[ D:\team\tp5\application\admin\controller\AdminLogin.php ]
+[ info ] [ VIEW ] D:/team/tp5/application/admin/view/AdminLogin\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-12-07T17:50:20+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/adminLogin/doLogin.html
+[ log ] layui.admin.com:8080/admin/adminLogin/doLogin.html [运行时间：0.256000s][吞吐率：3.91req/s] [内存消耗：2,412.63kb] [文件加载：44]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'adminLogin',
+    2 => 'doLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://layui.admin.com:8080/admin/AdminLogin/login.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://layui.admin.com:8080',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '31',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+  'user_name' => 'admin',
+  'password' => '123123',
+)
+[ info ] [ RUN ] app\admin\controller\AdminLogin->doLogin[ D:\team\tp5\application\admin\controller\AdminLogin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.035000s ] mysql:dbname=layui_admin;host=127.0.0.1;port=3307;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `think_auth_member` [ RunTime:0.048500s ]
+[ sql ] [ SQL ] SELECT * FROM `think_auth_member` WHERE  `user_name` = 'admin' LIMIT 1 [ RunTime:0.001000s ]
+
+---------------------------------------------------------------
+[ 2016-12-07T17:50:20+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/Index/index.html
+[ log ] layui.admin.com:8080/admin/Index/index.html [运行时间：0.110000s][吞吐率：9.09req/s] [内存消耗：2,518.63kb] [文件加载：50]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://layui.admin.com:8080/admin/AdminLogin/login.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\team\tp5\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:/team/tp5/application/admin/view/Index\index.html [ array (
+  0 => 'menu_list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=layui_admin;host=127.0.0.1;port=3307;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `think_auth_menu` [ RunTime:0.047000s ]
+[ sql ] [ SQL ] SELECT * FROM `think_auth_menu` WHERE  `tree_id` = 0 [ RunTime:0.000500s ]
+
+---------------------------------------------------------------
+[ 2016-12-07T17:50:21+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/Index/main.html
+[ log ] layui.admin.com:8080/admin/Index/main.html [运行时间：0.027500s][吞吐率：36.36req/s] [内存消耗：1,702.54kb] [文件加载：42]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Index',
+    2 => 'main',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://layui.admin.com:8080/admin/Index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->main[ D:\team\tp5\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-12-07T17:50:51+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/Menu/menuList.html
+[ log ] layui.admin.com:8080/admin/Menu/menuList.html [运行时间：0.115500s][吞吐率：8.66req/s] [内存消耗：1,779.18kb] [文件加载：44]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Menu',
+    2 => 'menuList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://layui.admin.com:8080/admin/Index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Menu->menuList[ D:\team\tp5\application\admin\controller\Menu.php ]
+[ info ] [ VIEW ] D:/team/tp5/application/admin/view/Menu\menuList.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-12-07T17:50:53+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/menu/addMenu.html
+[ log ] layui.admin.com:8080/admin/menu/addMenu.html [运行时间：0.123500s][吞吐率：8.10req/s] [内存消耗：2,524.27kb] [文件加载：50]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'addMenu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://layui.admin.com:8080/admin/Menu/menuList.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Menu->addMenu[ D:\team\tp5\application\admin\controller\Menu.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:/team/tp5/application/admin/view/Menu\addMenu.html [ array (
+  0 => 'menu_list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000500s ] mysql:dbname=layui_admin;host=127.0.0.1;port=3307;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `think_auth_menu` [ RunTime:0.007500s ]
+[ sql ] [ SQL ] SELECT `id`,`menu_name`,`tree_id`,`menu_url`,`menu_icon`,concat(cat_id,'-',id) as cat_order FROM `think_auth_menu` ORDER BY cat_order [ RunTime:0.000500s ]
+
+---------------------------------------------------------------
+[ 2016-12-07T17:54:03+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/Index/navbar.html
+[ log ] layui.admin.com:8080/admin/Index/navbar.html [运行时间：0.038500s][吞吐率：25.97req/s] [内存消耗：1,733.56kb] [文件加载：45]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Index',
+    2 => 'navbar',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://layui.admin.com:8080/admin/Index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-12-07T17:54:08+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/Index/button.html
+[ log ] layui.admin.com:8080/admin/Index/button.html [运行时间：0.060500s][吞吐率：16.53req/s] [内存消耗：1,733.87kb] [文件加载：45]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Index',
+    2 => 'button',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://layui.admin.com:8080/admin/Index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-12-07T18:00:09+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/Menu/menuList.html
+[ log ] layui.admin.com:8080/admin/Menu/menuList.html [运行时间：0.036000s][吞吐率：27.78req/s] [内存消耗：1,779.16kb] [文件加载：44]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Menu',
+    2 => 'menuList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://layui.admin.com:8080/admin/Index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Menu->menuList[ D:\team\tp5\application\admin\controller\Menu.php ]
+[ info ] [ VIEW ] D:/team/tp5/application/admin/view/Menu\menuList.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-12-07T18:00:12+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/AdminLogin/loginOut.html
+[ log ] layui.admin.com:8080/admin/AdminLogin/loginOut.html [运行时间：0.032500s][吞吐率：30.77req/s] [内存消耗：1,687.02kb] [文件加载：40]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'AdminLogin',
+    2 => 'loginOut',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://layui.admin.com:8080/admin/Index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\AdminLogin->loginOut[ D:\team\tp5\application\admin\controller\AdminLogin.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-12-07T18:00:12+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/AdminLogin/login.html
+[ log ] layui.admin.com:8080/admin/AdminLogin/login.html [运行时间：0.028000s][吞吐率：35.71req/s] [内存消耗：1,692.73kb] [文件加载：41]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'AdminLogin',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://layui.admin.com:8080/admin/Index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\AdminLogin->login[ D:\team\tp5\application\admin\controller\AdminLogin.php ]
+[ info ] [ VIEW ] D:/team/tp5/application/admin/view/AdminLogin\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-12-07T18:00:32+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/adminLogin/doLogin.html
+[ log ] layui.admin.com:8080/admin/adminLogin/doLogin.html [运行时间：0.066013s][吞吐率：15.15req/s] [内存消耗：2,380.60kb] [文件加载：45]
+[ info ] [ LANG ] D:\team\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'adminLogin',
+    2 => 'doLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lmlhubps2paomi5s2pie35ssf2',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'layui.admin.com:8080',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\AdminLogin->doLogin[ D:\team\tp5\application\admin\controller\AdminLogin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006001s ] mysql:dbname=layui_admin;host=127.0.0.1;port=3307;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `think_auth_member` [ RunTime:0.012503s ]
+[ sql ] [ SQL ] SELECT * FROM `think_auth_member` WHERE  `user_name` IS NULL LIMIT 1 [ RunTime:0.000500s ]
+
+---------------------------------------------------------------
